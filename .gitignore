@@ -1,0 +1,11 @@
+#git 版本库的忽略文件
+
+# 忽略 node-modules
+node_modules
+
+# 只忽略 .gitigonre 
+
+# 跟踪匹配到的文件或目录
+!node_modules
+detials.html
+!hi.html
